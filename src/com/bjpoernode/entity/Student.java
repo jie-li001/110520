@@ -5,5 +5,6 @@ public class Student {
     private String name;
     private String age;
     private boolean sex;
+    private int num1;
 
 }
